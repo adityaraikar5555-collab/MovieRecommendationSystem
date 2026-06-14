@@ -228,38 +228,37 @@ Display Posters & Details
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Preview
 
-## Home Page
+## 🏠 Home Page
 
-```
-(Add Screenshot Here)
-```
-
----
-
-## Search Results
-
-```
-(Add Screenshot Here)
-```
+<p align="center">
+<img src="assests/HomeUI.png" width="900">
+</p>
 
 ---
 
-## Movie Details
+## 🔍 Search Results
 
-```
-(Add Screenshot Here)
-```
+<p align="center">
+<img src="assests/SearchUI.png" width="900">
+</p>
 
 ---
 
-## Recommendation Page
+## 🎬 Movie Details
 
-```
-(Add Screenshot Here)
-```
+<p align="center">
+<img src="assests/MovieDetails.png" width="900">
+</p>
 
+---
+
+## 🎯 Recommendation Page
+
+<p align="center">
+<img src="assests/Recommendation.png" width="900">
+</p>
 
 ---
 
